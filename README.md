@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacek-Bystrzycki
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML/CSS, JavaScript, React.
+- 👀 I’m interested in web development (front and back)
+- 🌱 I’m currently learning HTML/CSS, JavaScript, React, Node and TypeScript.
 - 📫 How to reach me: bystrzyckijacek@gmail.com
 
 <!---
